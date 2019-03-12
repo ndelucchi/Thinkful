@@ -1,0 +1,10 @@
+SELECT
+	EXTRACT(MONTH FROM calender_date) AS month,
+	SUM(CAST((CASE WHEN available = 't' THEN 1 ELSE 0 END) AS NUMERIC)) AS availability
+FROM
+	sfo_calendar
+GROUP BY
+	month
+ORDER BY
+	availability
+LIMIT 1

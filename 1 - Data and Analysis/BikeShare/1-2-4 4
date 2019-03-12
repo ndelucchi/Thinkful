@@ -1,0 +1,8 @@
+SELECT 
+	end_station,
+	AVG(duration) AS avg_duration
+FROM trips
+GROUP BY
+	end_station
+ORDER BY
+	end_station

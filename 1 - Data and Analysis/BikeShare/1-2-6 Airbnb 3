@@ -1,0 +1,10 @@
+SELECT
+	EXTRACT(MONTH FROM calender_date) AS month,
+	AVG(CAST(regexp_replace(price, '[^0-9.]+', '', 'g') AS NUMERIC)) AS avg_price
+FROM
+	sfo_calendar
+GROUP BY
+	month
+ORDER BY
+	avg_price
+LIMIT 1

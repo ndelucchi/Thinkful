@@ -1,0 +1,13 @@
+SELECT
+	*
+FROM
+	weather
+JOIN
+	trips
+ON 
+	weather.zip = trips.zip_code
+WHERE
+	events LIKE 'Rain'
+ORDER BY
+	duration DESC
+LIMIT 3

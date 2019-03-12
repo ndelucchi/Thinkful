@@ -1,0 +1,402 @@
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,RCPSZFF.id,RCPSZFF.display-label,YEAR.id,FIRM,ESTAB,RCPTOT,PAYANN,PAYQTR1,EMP
+Geographic identifier code,Id2,Geographic area name,2012 NAICS code,Meaning of 2012 NAICS code,"Sales, receipts, or revenue size of firms operated the entire year code","Meaning of Sales, receipts, or revenue size of firms operated the entire year code",Year,Number of firms,Number of establishments,"Revenue ($1,000)","Annual payroll ($1,000)","First-quarter payroll ($1,000)",Number of paid employees for pay period including March 12
+0100000US,,United States,22,Utilities,001,All firms,2012,5815,17595,531890695,58922951,17463405,651234
+0100000US,,United States,22,Utilities,004,Firms operated for the entire year,2012,5421,17197,530901859,58809349,17430022,649478
+0100000US,,United States,22,Utilities,514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,828,829,42298,315629,87800,4218
+0100000US,,United States,22,Utilities,523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,811,811,136503,36605,8787,2021
+0100000US,,United States,22,Utilities,525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,732,734,262913,66212,16029,2492
+0100000US,,United States,22,Utilities,531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,670,678,471564,120271,29246,3447
+0100000US,,United States,22,Utilities,533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,628,676,983068,221739,53226,4973
+0100000US,,United States,22,Utilities,541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,280,313,986874,228122,56588,4188
+0100000US,,United States,22,Utilities,542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,258,329,1886257,332029,81972,5560
+0100000US,,United States,22,Utilities,551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,370,565,6108484,911482,228714,13897
+0100000US,,United States,22,Utilities,553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,298,595,10595290,1224225,302077,18247
+0100000US,,United States,22,Utilities,561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,205,554,14013391,1330937,337747,18882
+0100000US,,United States,22,Utilities,563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,153,855,24072664,2001537,520061,27676
+0100000US,,United States,22,Utilities,572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,56,566,19938304,2117857,603925,24895
+0100000US,,United States,22,Utilities,581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,132,9692,451404249,49902704,15103850,518982
+0100000US,,United States,22,Utilities,999,Firms not operated for the entire year,2012,394,398,988836,113602,33383,1756
+0100000US,,United States,221,Utilities,001,All firms,2012,5815,17595,531890695,58922951,17463405,651234
+0100000US,,United States,221,Utilities,004,Firms operated for the entire year,2012,5421,17197,530901859,58809349,17430022,649478
+0100000US,,United States,221,Utilities,514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,828,829,42298,315629,87800,4218
+0100000US,,United States,221,Utilities,523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,811,811,136503,36605,8787,2021
+0100000US,,United States,221,Utilities,525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,732,734,262913,66212,16029,2492
+0100000US,,United States,221,Utilities,531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,670,678,471564,120271,29246,3447
+0100000US,,United States,221,Utilities,533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,628,676,983068,221739,53226,4973
+0100000US,,United States,221,Utilities,541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,280,313,986874,228122,56588,4188
+0100000US,,United States,221,Utilities,542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,258,329,1886257,332029,81972,5560
+0100000US,,United States,221,Utilities,551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,370,565,6108484,911482,228714,13897
+0100000US,,United States,221,Utilities,553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,298,595,10595290,1224225,302077,18247
+0100000US,,United States,221,Utilities,561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,205,554,14013391,1330937,337747,18882
+0100000US,,United States,221,Utilities,563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,153,855,24072664,2001537,520061,27676
+0100000US,,United States,221,Utilities,572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,56,566,19938304,2117857,603925,24895
+0100000US,,United States,221,Utilities,581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,132,9692,451404249,49902704,15103850,518982
+0100000US,,United States,221,Utilities,999,Firms not operated for the entire year,2012,394,398,988836,113602,33383,1756
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",001,All firms,2012,1763,10330,430079295,49936923,14965072,522010
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",004,Firms operated for the entire year,2012,1635,10201,429334873,49845605,14938388,520828
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,79,80,2629,288842,81062,2773
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,54,54,8997,3712,936,96
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,64,65,23874,7012,1741,152
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,63,68,46318,13238,3298,244
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,125,151,201532,45106,10800,701
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,82,95,288985,80475,20383,1159
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,148,174,1104326,191887,47321,2785
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,302,431,5049182,721326,181594,10529
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,264,480,9461518,1015109,253108,15045
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,182,482,12479567,1148748,289703,16376
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,130,602,20381522,1703570,449744,22119
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,43,323,15031745,1540285,433515,17235
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,99,7196,365254678,43086295,13165183,431614
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",999,Firms not operated for the entire year,2012,128,129,744422,91318,26684,1182
+0100000US,,United States,22111,Electric power generation,001,All firms,2012,586,2678,120025497,14847230,4447480,146701
+0100000US,,United States,22111,Electric power generation,004,Firms operated for the entire year,2012,519,2607,119347918,14774569,4426839,145845
+0100000US,,United States,22111,Electric power generation,514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,56,57,1682,242248,67168,2388
+0100000US,,United States,22111,Electric power generation,523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,33,33,5633,2671,674,73
+0100000US,,United States,22111,Electric power generation,525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,42,43,15822,5142,1245,105
+0100000US,,United States,22111,Electric power generation,531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,38,42,27682,7683,1856,149
+0100000US,,United States,22111,Electric power generation,533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,75,100,121116,26812,6534,430
+0100000US,,United States,22111,Electric power generation,541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,35,40,124995,41457,11050,541
+0100000US,,United States,22111,Electric power generation,542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,38,47,279836,67507,17077,810
+0100000US,,United States,22111,Electric power generation,551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,48,79,763948,193928,55442,2496
+0100000US,,United States,22111,Electric power generation,553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,26,55,940474,131251,36703,1495
+0100000US,,United States,22111,Electric power generation,561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,18,89,1186668,217020,60799,2437
+0100000US,,United States,22111,Electric power generation,563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,31,252,5276137,589342,157598,7041
+0100000US,,United States,22111,Electric power generation,572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,27,251,9567701,1036217,292688,10797
+0100000US,,United States,22111,Electric power generation,581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,52,1519,101036224,12213291,3718005,117083
+0100000US,,United States,22111,Electric power generation,999,Firms not operated for the entire year,2012,67,71,677579,72661,20641,856
+0100000US,,United States,221111,Hydroelectric power generation,001,All firms,2012,137,405,2452297,274179,75946,3464
+0100000US,,United States,221111,Hydroelectric power generation,004,Firms operated for the entire year,2012,125,393,D,D,D,h
+0100000US,,United States,221111,Hydroelectric power generation,514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,20,20,884,651,149,25
+0100000US,,United States,221111,Hydroelectric power generation,523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,9,9,1446,402,92,20
+0100000US,,United States,221111,Hydroelectric power generation,525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,19,20,6918,1938,435,47
+0100000US,,United States,221111,Hydroelectric power generation,531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,15,16,10314,3124,782,67
+0100000US,,United States,221111,Hydroelectric power generation,533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,21,45,34008,6830,1582,133
+0100000US,,United States,221111,Hydroelectric power generation,541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,5,5,17899,2194,572,45
+0100000US,,United States,221111,Hydroelectric power generation,542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,5,8,37459,10617,2553,145
+0100000US,,United States,221111,Hydroelectric power generation,551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,7,13,110044,12548,3154,159
+0100000US,,United States,221111,Hydroelectric power generation,553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,7,33,248840,29950,8584,413
+0100000US,,United States,221111,Hydroelectric power generation,561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,9,88,594796,74575,20520,906
+0100000US,,United States,221111,Hydroelectric power generation,563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,7,93,D,D,D,g
+0100000US,,United States,221111,Hydroelectric power generation,572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,1,43,D,D,D,e
+0100000US,,United States,221111,Hydroelectric power generation,581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,0,0,0,0,0,0
+0100000US,,United States,221111,Hydroelectric power generation,999,Firms not operated for the entire year,2012,12,12,D,D,D,a
+0100000US,,United States,221112,Fossil fuel electric power generation,001,All firms,2012,222,1416,81473633,7997908,2350526,82071
+0100000US,,United States,221112,Fossil fuel electric power generation,004,Firms operated for the entire year,2012,203,1395,D,D,D,l
+0100000US,,United States,221112,Fossil fuel electric power generation,514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,4,4,203,2300,576,31
+0100000US,,United States,221112,Fossil fuel electric power generation,523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,5,5,872,423,102,9
+0100000US,,United States,221112,Fossil fuel electric power generation,525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,5,5,1862,603,184,10
+0100000US,,United States,221112,Fossil fuel electric power generation,531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,8,9,6200,1268,280,36
+0100000US,,United States,221112,Fossil fuel electric power generation,533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,13,13,20503,3783,981,62
+0100000US,,United States,221112,Fossil fuel electric power generation,541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,8,8,30462,6922,2082,89
+0100000US,,United States,221112,Fossil fuel electric power generation,542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,15,26,116827,33639,8445,466
+0100000US,,United States,221112,Fossil fuel electric power generation,551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,21,28,314292,93014,28423,944
+0100000US,,United States,221112,Fossil fuel electric power generation,553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,16,30,608201,89743,26221,914
+0100000US,,United States,221112,Fossil fuel electric power generation,561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,11,54,728702,146360,40395,1648
+0100000US,,United States,221112,Fossil fuel electric power generation,563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,25,93,3988204,420659,113085,5077
+0100000US,,United States,221112,Fossil fuel electric power generation,572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,23,133,D,D,D,i
+0100000US,,United States,221112,Fossil fuel electric power generation,581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,49,987,D,D,D,l
+0100000US,,United States,221112,Fossil fuel electric power generation,999,Firms not operated for the entire year,2012,19,21,D,D,D,f
+0100000US,,United States,221113,Nuclear electric power generation,001,All firms,2012,29,141,28867709,5698273,1753105,51354
+0100000US,,United States,221113,Nuclear electric power generation,004,Firms operated for the entire year,2012,29,141,28867709,5698273,1753105,51354
+0100000US,,United States,221113,Nuclear electric power generation,514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,3,4,D,D,D,g
+0100000US,,United States,221113,Nuclear electric power generation,523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,0,0,0,0,0,0
+0100000US,,United States,221113,Nuclear electric power generation,525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,0,0,0,0,0,0
+0100000US,,United States,221113,Nuclear electric power generation,531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,1,1,D,D,D,a
+0100000US,,United States,221113,Nuclear electric power generation,533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,0,0,0,0,0,0
+0100000US,,United States,221113,Nuclear electric power generation,541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,0,0,0,0,0,0
+0100000US,,United States,221113,Nuclear electric power generation,542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,2,2,D,D,D,a
+0100000US,,United States,221113,Nuclear electric power generation,551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,3,4,39362,9896,4217,131
+0100000US,,United States,221113,Nuclear electric power generation,553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,1,1,D,D,D,a
+0100000US,,United States,221113,Nuclear electric power generation,561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,0,0,0,0,0,0
+0100000US,,United States,221113,Nuclear electric power generation,563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,1,1,D,D,D,a
+0100000US,,United States,221113,Nuclear electric power generation,572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,4,10,D,D,D,h
+0100000US,,United States,221113,Nuclear electric power generation,581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,14,118,27000933,4963581,1535789,44192
+0100000US,,United States,221113,Nuclear electric power generation,999,Firms not operated for the entire year,2012,0,0,0,0,0,0
+0100000US,,United States,221114,Solar electric power generation,001,All firms,2012,107,136,427577,117846,31284,1582
+0100000US,,United States,221114,Solar electric power generation,004,Firms operated for the entire year,2012,83,112,420935,111516,28650,1436
+0100000US,,United States,221114,Solar electric power generation,514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,14,14,163,6902,1595,65
+0100000US,,United States,221114,Solar electric power generation,523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,5,5,816,278,76,7
+0100000US,,United States,221114,Solar electric power generation,525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,5,5,1956,270,58,7
+0100000US,,United States,221114,Solar electric power generation,531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,8,8,D,D,D,a
+0100000US,,United States,221114,Solar electric power generation,533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,16,17,D,D,D,c
+0100000US,,United States,221114,Solar electric power generation,541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,12,12,41989,22618,6153,285
+0100000US,,United States,221114,Solar electric power generation,542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,14,17,D,D,D,c
+0100000US,,United States,221114,Solar electric power generation,551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,5,6,74365,24129,5871,428
+0100000US,,United States,221114,Solar electric power generation,553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,3,9,91546,7639,2540,133
+0100000US,,United States,221114,Solar electric power generation,561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,1,19,D,D,D,c
+0100000US,,United States,221114,Solar electric power generation,563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,0,0,0,0,0,0
+0100000US,,United States,221114,Solar electric power generation,572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,0,0,0,0,0,0
+0100000US,,United States,221114,Solar electric power generation,581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,0,0,0,0,0,0
+0100000US,,United States,221114,Solar electric power generation,999,Firms not operated for the entire year,2012,24,24,6642,6330,2634,146
+0100000US,,United States,221115,Wind electric power generation,001,All firms,2012,92,410,5058261,510302,168790,5347
+0100000US,,United States,221115,Wind electric power generation,004,Firms operated for the entire year,2012,87,405,5055460,509819,168784,5346
+0100000US,,United States,221115,Wind electric power generation,514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,7,7,188,9664,2445,108
+0100000US,,United States,221115,Wind electric power generation,523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,7,7,1236,554,145,13
+0100000US,,United States,221115,Wind electric power generation,525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,7,7,2654,1095,292,13
+0100000US,,United States,221115,Wind electric power generation,531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,6,8,3942,2066,506,32
+0100000US,,United States,221115,Wind electric power generation,533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,15,16,24230,5169,1367,82
+0100000US,,United States,221115,Wind electric power generation,541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,8,11,D,D,D,c
+0100000US,,United States,221115,Wind electric power generation,542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,5,13,36005,9479,2597,110
+0100000US,,United States,221115,Wind electric power generation,551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,10,12,182370,25414,6960,345
+0100000US,,United States,221115,Wind electric power generation,553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,9,37,276062,40302,12727,450
+0100000US,,United States,221115,Wind electric power generation,561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,6,27,D,D,D,f
+0100000US,,United States,221115,Wind electric power generation,563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,2,15,D,D,D,e
+0100000US,,United States,221115,Wind electric power generation,572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,3,61,1092434,87927,23766,913
+0100000US,,United States,221115,Wind electric power generation,581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,2,184,D,D,D,g
+0100000US,,United States,221115,Wind electric power generation,999,Firms not operated for the entire year,2012,5,5,2801,483,6,1
+0100000US,,United States,221116,Geothermal electric power generation,001,All firms,2012,18,45,981196,124469,33838,1235
+0100000US,,United States,221116,Geothermal electric power generation,004,Firms operated for the entire year,2012,17,44,D,D,D,g
+0100000US,,United States,221116,Geothermal electric power generation,514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,0,0,0,0,0,0
+0100000US,,United States,221116,Geothermal electric power generation,523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,2,2,D,D,D,a
+0100000US,,United States,221116,Geothermal electric power generation,525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,2,2,D,D,D,a
+0100000US,,United States,221116,Geothermal electric power generation,531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,0,0,0,0,0,0
+0100000US,,United States,221116,Geothermal electric power generation,533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,2,2,D,D,D,a
+0100000US,,United States,221116,Geothermal electric power generation,541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,2,3,D,D,D,b
+0100000US,,United States,221116,Geothermal electric power generation,542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,1,1,D,D,D,b
+0100000US,,United States,221116,Geothermal electric power generation,551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,3,17,59168,13479,3141,155
+0100000US,,United States,221116,Geothermal electric power generation,553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,1,1,D,D,D,b
+0100000US,,United States,221116,Geothermal electric power generation,561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,0,0,0,0,0,0
+0100000US,,United States,221116,Geothermal electric power generation,563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,3,15,D,D,D,f
+0100000US,,United States,221116,Geothermal electric power generation,572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,1,1,D,D,D,e
+0100000US,,United States,221116,Geothermal electric power generation,581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,0,0,0,0,0,0
+0100000US,,United States,221116,Geothermal electric power generation,999,Firms not operated for the entire year,2012,1,1,D,D,D,a
+0100000US,,United States,221117,Biomass electric power generation,001,All firms,2012,68,107,721459,105686,28878,1424
+0100000US,,United States,221117,Biomass electric power generation,004,Firms operated for the entire year,2012,59,98,710957,99721,28113,1399
+0100000US,,United States,221117,Biomass electric power generation,514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,5,5,51,1449,376,31
+0100000US,,United States,221117,Biomass electric power generation,523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,3,3,D,D,D,a
+0100000US,,United States,221117,Biomass electric power generation,525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,6,6,2368,1052,293,18
+0100000US,,United States,221117,Biomass electric power generation,531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,2,2,D,D,D,a
+0100000US,,United States,221117,Biomass electric power generation,533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,10,10,18159,3350,791,51
+0100000US,,United States,221117,Biomass electric power generation,541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,6,7,21297,3981,867,77
+0100000US,,United States,221117,Biomass electric power generation,542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,6,8,48046,9863,3190,140
+0100000US,,United States,221117,Biomass electric power generation,551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,12,24,D,D,D,e
+0100000US,,United States,221117,Biomass electric power generation,553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,6,9,207600,30390,8066,338
+0100000US,,United States,221117,Biomass electric power generation,561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,2,18,D,D,D,c
+0100000US,,United States,221117,Biomass electric power generation,563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,1,6,D,D,D,c
+0100000US,,United States,221117,Biomass electric power generation,572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,0,0,0,0,0,0
+0100000US,,United States,221117,Biomass electric power generation,581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,0,0,0,0,0,0
+0100000US,,United States,221117,Biomass electric power generation,999,Firms not operated for the entire year,2012,9,9,10502,5965,765,25
+0100000US,,United States,221118,Other electric power generation,001,All firms,2012,16,18,43365,18567,5113,224
+0100000US,,United States,221118,Other electric power generation,004,Firms operated for the entire year,2012,16,18,43365,18567,5113,224
+0100000US,,United States,221118,Other electric power generation,514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,5,5,D,D,D,b
+0100000US,,United States,221118,Other electric power generation,523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,2,2,D,D,D,a
+0100000US,,United States,221118,Other electric power generation,525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,3,3,1265,606,132,15
+0100000US,,United States,221118,Other electric power generation,531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,1,1,D,D,D,a
+0100000US,,United States,221118,Other electric power generation,533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,2,2,D,D,D,a
+0100000US,,United States,221118,Other electric power generation,541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,0,0,0,0,0,0
+0100000US,,United States,221118,Other electric power generation,542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,1,1,D,D,D,b
+0100000US,,United States,221118,Other electric power generation,551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,2,4,D,D,D,b
+0100000US,,United States,221118,Other electric power generation,553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,0,0,0,0,0,0
+0100000US,,United States,221118,Other electric power generation,561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,0,0,0,0,0,0
+0100000US,,United States,221118,Other electric power generation,563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,0,0,0,0,0,0
+0100000US,,United States,221118,Other electric power generation,572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,0,0,0,0,0,0
+0100000US,,United States,221118,Other electric power generation,581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,0,0,0,0,0,0
+0100000US,,United States,221118,Other electric power generation,999,Firms not operated for the entire year,2012,0,0,0,0,0,0
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",001,All firms,2012,1250,7652,310053798,35089693,10517592,375309
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",004,Firms operated for the entire year,2012,1187,7589,309986215,35070947,10511460,374978
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,24,25,949,47294,14057,392
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,21,21,3364,1041,262,23
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,24,24,8785,2038,540,50
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,28,29,20743,5858,1517,100
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,52,53,83764,18815,4392,277
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,50,58,178199,41508,9907,646
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,112,128,840331,128228,31029,2019
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,259,356,4358561,537547,128486,8146
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,243,447,8720885,907617,223036,13827
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,169,413,11642065,1032933,256315,15205
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,106,440,16448293,1386048,363083,18064
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,28,131,9573228,770681,221308,9177
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,71,5464,258107048,30191339,9257528,307052
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",999,Firms not operated for the entire year,2012,63,63,67583,18746,6132,331
+0100000US,,United States,221121,Electric bulk power transmission and control,001,All firms,2012,64,250,9959166,1407906,402502,12465
+0100000US,,United States,221121,Electric bulk power transmission and control,004,Firms operated for the entire year,2012,59,245,D,D,D,j
+0100000US,,United States,221121,Electric bulk power transmission and control,514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,3,4,D,D,D,a
+0100000US,,United States,221121,Electric bulk power transmission and control,523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,0,0,0,0,0,0
+0100000US,,United States,221121,Electric bulk power transmission and control,525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,0,0,0,0,0,0
+0100000US,,United States,221121,Electric bulk power transmission and control,531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,4,4,3157,999,253,16
+0100000US,,United States,221121,Electric bulk power transmission and control,533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,3,3,D,D,D,a
+0100000US,,United States,221121,Electric bulk power transmission and control,541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,3,5,D,D,D,a
+0100000US,,United States,221121,Electric bulk power transmission and control,542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,4,4,30308,2809,528,30
+0100000US,,United States,221121,Electric bulk power transmission and control,551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,6,8,106720,8980,1807,88
+0100000US,,United States,221121,Electric bulk power transmission and control,553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,5,28,187953,28892,7511,262
+0100000US,,United States,221121,Electric bulk power transmission and control,561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,8,31,571783,76051,22289,816
+0100000US,,United States,221121,Electric bulk power transmission and control,563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,12,33,1996108,388390,117746,3522
+0100000US,,United States,221121,Electric bulk power transmission and control,572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,4,23,D,D,D,g
+0100000US,,United States,221121,Electric bulk power transmission and control,581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,7,102,D,D,D,i
+0100000US,,United States,221121,Electric bulk power transmission and control,999,Firms not operated for the entire year,2012,5,5,D,D,D,a
+0100000US,,United States,221122,Electric power distribution,001,All firms,2012,1207,7402,300094632,33681787,10115090,362844
+0100000US,,United States,221122,Electric power distribution,004,Firms operated for the entire year,2012,1149,7344,D,D,D,m
+0100000US,,United States,221122,Electric power distribution,514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,21,21,D,D,D,e
+0100000US,,United States,221122,Electric power distribution,523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,21,21,3364,1041,262,23
+0100000US,,United States,221122,Electric power distribution,525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,24,24,8785,2038,540,50
+0100000US,,United States,221122,Electric power distribution,531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,25,26,18372,5027,1305,86
+0100000US,,United States,221122,Electric power distribution,533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,49,50,D,D,D,e
+0100000US,,United States,221122,Electric power distribution,541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,51,59,181033,44342,10540,678
+0100000US,,United States,221122,Electric power distribution,542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,108,124,810023,125419,30501,1989
+0100000US,,United States,221122,Electric power distribution,551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,255,352,4297738,531490,127195,8088
+0100000US,,United States,221122,Electric power distribution,553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,239,427,8579565,882573,217248,13589
+0100000US,,United States,221122,Electric power distribution,561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,165,407,11288389,992690,243951,14777
+0100000US,,United States,221122,Electric power distribution,563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,97,426,14987943,1031618,255076,14930
+0100000US,,United States,221122,Electric power distribution,572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,25,126,8734696,572066,151479,7478
+0100000US,,United States,221122,Electric power distribution,581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,69,5281,251038687,29413939,9052974,300182
+0100000US,,United States,221122,Electric power distribution,999,Firms not operated for the entire year,2012,58,58,D,D,D,e
+0100000US,,United States,2212,Natural gas distribution,001,All firms,2012,459,2419,89568130,6681677,1875780,83937
+0100000US,,United States,2212,Natural gas distribution,004,Firms operated for the entire year,2012,422,2380,89377226,6671231,1872369,83806
+0100000US,,United States,2212,Natural gas distribution,514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,17,17,895,13154,3269,163
+0100000US,,United States,2212,Natural gas distribution,523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,23,23,4201,1000,263,44
+0100000US,,United States,2212,Natural gas distribution,525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,38,38,13051,3015,752,75
+0100000US,,United States,2212,Natural gas distribution,531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,45,45,32979,8911,2395,203
+0100000US,,United States,2212,Natural gas distribution,533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,53,54,89680,17683,4434,327
+0100000US,,United States,2212,Natural gas distribution,541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,53,64,196441,29103,7285,549
+0100000US,,United States,2212,Natural gas distribution,542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,32,40,234121,26129,6591,468
+0100000US,,United States,2212,Natural gas distribution,551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,34,47,546065,76585,21401,1037
+0100000US,,United States,2212,Natural gas distribution,553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,24,52,798190,77300,17762,883
+0100000US,,United States,2212,Natural gas distribution,561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,17,34,1157812,84634,22476,1159
+0100000US,,United States,2212,Natural gas distribution,563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,26,91,3993573,240447,64361,3534
+0100000US,,United States,2212,Natural gas distribution,572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,15,281,5796659,586298,169830,7692
+0100000US,,United States,2212,Natural gas distribution,581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,45,1594,76513559,5506972,1551550,67672
+0100000US,,United States,2212,Natural gas distribution,999,Firms not operated for the entire year,2012,37,39,190904,10446,3411,131
+0100000US,,United States,22121,Natural gas distribution,001,All firms,2012,459,2419,89568130,6681677,1875780,83937
+0100000US,,United States,22121,Natural gas distribution,004,Firms operated for the entire year,2012,422,2380,89377226,6671231,1872369,83806
+0100000US,,United States,22121,Natural gas distribution,514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,17,17,895,13154,3269,163
+0100000US,,United States,22121,Natural gas distribution,523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,23,23,4201,1000,263,44
+0100000US,,United States,22121,Natural gas distribution,525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,38,38,13051,3015,752,75
+0100000US,,United States,22121,Natural gas distribution,531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,45,45,32979,8911,2395,203
+0100000US,,United States,22121,Natural gas distribution,533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,53,54,89680,17683,4434,327
+0100000US,,United States,22121,Natural gas distribution,541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,53,64,196441,29103,7285,549
+0100000US,,United States,22121,Natural gas distribution,542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,32,40,234121,26129,6591,468
+0100000US,,United States,22121,Natural gas distribution,551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,34,47,546065,76585,21401,1037
+0100000US,,United States,22121,Natural gas distribution,553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,24,52,798190,77300,17762,883
+0100000US,,United States,22121,Natural gas distribution,561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,17,34,1157812,84634,22476,1159
+0100000US,,United States,22121,Natural gas distribution,563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,26,91,3993573,240447,64361,3534
+0100000US,,United States,22121,Natural gas distribution,572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,15,281,5796659,586298,169830,7692
+0100000US,,United States,22121,Natural gas distribution,581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,45,1594,76513559,5506972,1551550,67672
+0100000US,,United States,22121,Natural gas distribution,999,Firms not operated for the entire year,2012,37,39,190904,10446,3411,131
+0100000US,,United States,221210,Natural gas distribution,001,All firms,2012,459,2419,89568130,6681677,1875780,83937
+0100000US,,United States,221210,Natural gas distribution,004,Firms operated for the entire year,2012,422,2380,89377226,6671231,1872369,83806
+0100000US,,United States,221210,Natural gas distribution,514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,17,17,895,13154,3269,163
+0100000US,,United States,221210,Natural gas distribution,523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,23,23,4201,1000,263,44
+0100000US,,United States,221210,Natural gas distribution,525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,38,38,13051,3015,752,75
+0100000US,,United States,221210,Natural gas distribution,531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,45,45,32979,8911,2395,203
+0100000US,,United States,221210,Natural gas distribution,533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,53,54,89680,17683,4434,327
+0100000US,,United States,221210,Natural gas distribution,541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,53,64,196441,29103,7285,549
+0100000US,,United States,221210,Natural gas distribution,542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,32,40,234121,26129,6591,468
+0100000US,,United States,221210,Natural gas distribution,551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,34,47,546065,76585,21401,1037
+0100000US,,United States,221210,Natural gas distribution,553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,24,52,798190,77300,17762,883
+0100000US,,United States,221210,Natural gas distribution,561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,17,34,1157812,84634,22476,1159
+0100000US,,United States,221210,Natural gas distribution,563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,26,91,3993573,240447,64361,3534
+0100000US,,United States,221210,Natural gas distribution,572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,15,281,5796659,586298,169830,7692
+0100000US,,United States,221210,Natural gas distribution,581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,45,1594,76513559,5506972,1551550,67672
+0100000US,,United States,221210,Natural gas distribution,999,Firms not operated for the entire year,2012,37,39,190904,10446,3411,131
+0100000US,,United States,2213,"Water, sewage and other systems",001,All firms,2012,3654,4846,12243270,2304351,622553,45287
+0100000US,,United States,2213,"Water, sewage and other systems",004,Firms operated for the entire year,2012,3422,4613,12183867,2289858,618490,44814
+0100000US,,United States,2213,"Water, sewage and other systems",514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,732,732,38774,13633,3469,1282
+0100000US,,United States,2213,"Water, sewage and other systems",523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,736,736,123643,32029,7625,1884
+0100000US,,United States,2213,"Water, sewage and other systems",525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,631,632,226352,56250,13552,2266
+0100000US,,United States,2213,"Water, sewage and other systems",531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,563,567,392774,98177,23562,3002
+0100000US,,United States,2213,"Water, sewage and other systems",533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,453,474,697053,161661,38689,3970
+0100000US,,United States,2213,"Water, sewage and other systems",541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,146,154,504920,119036,29106,2495
+0100000US,,United States,2213,"Water, sewage and other systems",542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,81,115,568570,118264,29240,2363
+0100000US,,United States,2213,"Water, sewage and other systems",551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,39,100,575702,131374,32965,2621
+0100000US,,United States,2213,"Water, sewage and other systems",553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,17,81,614272,151833,35893,2667
+0100000US,,United States,2213,"Water, sewage and other systems",561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,9,37,660945,112339,29150,1443
+0100000US,,United States,2213,"Water, sewage and other systems",563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,7,206,1124233,182321,46561,3455
+0100000US,,United States,2213,"Water, sewage and other systems",572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,3,36,D,D,D,g
+0100000US,,United States,2213,"Water, sewage and other systems",581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,5,743,D,D,D,j
+0100000US,,United States,2213,"Water, sewage and other systems",999,Firms not operated for the entire year,2012,232,233,59403,14493,4063,473
+0100000US,,United States,22131,Water supply and irrigation systems,001,All firms,2012,3261,4039,9437810,1841726,501559,36352
+0100000US,,United States,22131,Water supply and irrigation systems,004,Firms operated for the entire year,2012,3062,3840,9399551,1831663,499283,36010
+0100000US,,United States,22131,Water supply and irrigation systems,514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,673,673,35864,9863,2459,1165
+0100000US,,United States,22131,Water supply and irrigation systems,523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,676,676,113654,28923,6899,1758
+0100000US,,United States,22131,Water supply and irrigation systems,525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,575,575,205821,50683,12255,2067
+0100000US,,United States,22131,Water supply and irrigation systems,531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,497,500,345494,84314,20398,2606
+0100000US,,United States,22131,Water supply and irrigation systems,533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,397,406,612909,136132,32517,3314
+0100000US,,United States,22131,Water supply and irrigation systems,541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,125,135,432168,102930,24821,2096
+0100000US,,United States,22131,Water supply and irrigation systems,542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,71,91,495246,95992,23715,1903
+0100000US,,United States,22131,Water supply and irrigation systems,551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,21,55,311935,80163,19882,1656
+0100000US,,United States,22131,Water supply and irrigation systems,553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,10,70,353606,120434,28549,2176
+0100000US,,United States,22131,Water supply and irrigation systems,561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,6,27,440468,87656,22608,1191
+0100000US,,United States,22131,Water supply and irrigation systems,563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,5,92,D,D,D,h
+0100000US,,United States,22131,Water supply and irrigation systems,572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,2,35,D,D,D,g
+0100000US,,United States,22131,Water supply and irrigation systems,581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,4,505,4707791,785346,242047,12073
+0100000US,,United States,22131,Water supply and irrigation systems,999,Firms not operated for the entire year,2012,199,199,38259,10063,2276,342
+0100000US,,United States,221310,Water supply and irrigation systems,001,All firms,2012,3261,4039,9437810,1841726,501559,36352
+0100000US,,United States,221310,Water supply and irrigation systems,004,Firms operated for the entire year,2012,3062,3840,9399551,1831663,499283,36010
+0100000US,,United States,221310,Water supply and irrigation systems,514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,673,673,35864,9863,2459,1165
+0100000US,,United States,221310,Water supply and irrigation systems,523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,676,676,113654,28923,6899,1758
+0100000US,,United States,221310,Water supply and irrigation systems,525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,575,575,205821,50683,12255,2067
+0100000US,,United States,221310,Water supply and irrigation systems,531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,497,500,345494,84314,20398,2606
+0100000US,,United States,221310,Water supply and irrigation systems,533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,397,406,612909,136132,32517,3314
+0100000US,,United States,221310,Water supply and irrigation systems,541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,125,135,432168,102930,24821,2096
+0100000US,,United States,221310,Water supply and irrigation systems,542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,71,91,495246,95992,23715,1903
+0100000US,,United States,221310,Water supply and irrigation systems,551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,21,55,311935,80163,19882,1656
+0100000US,,United States,221310,Water supply and irrigation systems,553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,10,70,353606,120434,28549,2176
+0100000US,,United States,221310,Water supply and irrigation systems,561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,6,27,440468,87656,22608,1191
+0100000US,,United States,221310,Water supply and irrigation systems,563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,5,92,D,D,D,h
+0100000US,,United States,221310,Water supply and irrigation systems,572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,2,35,D,D,D,g
+0100000US,,United States,221310,Water supply and irrigation systems,581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,4,505,4707791,785346,242047,12073
+0100000US,,United States,221310,Water supply and irrigation systems,999,Firms not operated for the entire year,2012,199,199,38259,10063,2276,342
+0100000US,,United States,22132,Sewage treatment facilities,001,All firms,2012,379,712,1377034,301017,74468,6849
+0100000US,,United States,22132,Sewage treatment facilities,004,Firms operated for the entire year,2012,348,680,D,D,D,i
+0100000US,,United States,22132,Sewage treatment facilities,514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,60,60,2982,3777,1012,118
+0100000US,,United States,22132,Sewage treatment facilities,523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,61,61,10194,3153,738,128
+0100000US,,United States,22132,Sewage treatment facilities,525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,55,55,20254,5513,1283,196
+0100000US,,United States,22132,Sewage treatment facilities,531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,72,73,50756,15311,3503,446
+0100000US,,United States,22132,Sewage treatment facilities,533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,56,69,87891,26605,6444,673
+0100000US,,United States,22132,Sewage treatment facilities,541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,19,20,66326,17395,4578,408
+0100000US,,United States,22132,Sewage treatment facilities,542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,6,11,D,D,D,e
+0100000US,,United States,22132,Sewage treatment facilities,551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,13,31,184088,34054,8270,693
+0100000US,,United States,22132,Sewage treatment facilities,553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,1,1,D,D,D,c
+0100000US,,United States,22132,Sewage treatment facilities,561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,0,0,0,0,0,0
+0100000US,,United States,22132,Sewage treatment facilities,563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,4,217,518343,95237,23852,2126
+0100000US,,United States,22132,Sewage treatment facilities,572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,1,82,D,D,D,g
+0100000US,,United States,22132,Sewage treatment facilities,581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,0,0,0,0,0,0
+0100000US,,United States,22132,Sewage treatment facilities,999,Firms not operated for the entire year,2012,31,32,D,D,D,b
+0100000US,,United States,221320,Sewage treatment facilities,001,All firms,2012,379,712,1377034,301017,74468,6849
+0100000US,,United States,221320,Sewage treatment facilities,004,Firms operated for the entire year,2012,348,680,D,D,D,i
+0100000US,,United States,221320,Sewage treatment facilities,514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,60,60,2982,3777,1012,118
+0100000US,,United States,221320,Sewage treatment facilities,523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,61,61,10194,3153,738,128
+0100000US,,United States,221320,Sewage treatment facilities,525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,55,55,20254,5513,1283,196
+0100000US,,United States,221320,Sewage treatment facilities,531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,72,73,50756,15311,3503,446
+0100000US,,United States,221320,Sewage treatment facilities,533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,56,69,87891,26605,6444,673
+0100000US,,United States,221320,Sewage treatment facilities,541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,19,20,66326,17395,4578,408
+0100000US,,United States,221320,Sewage treatment facilities,542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,6,11,D,D,D,e
+0100000US,,United States,221320,Sewage treatment facilities,551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,13,31,184088,34054,8270,693
+0100000US,,United States,221320,Sewage treatment facilities,553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,1,1,D,D,D,c
+0100000US,,United States,221320,Sewage treatment facilities,561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,0,0,0,0,0,0
+0100000US,,United States,221320,Sewage treatment facilities,563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,4,217,518343,95237,23852,2126
+0100000US,,United States,221320,Sewage treatment facilities,572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,1,82,D,D,D,g
+0100000US,,United States,221320,Sewage treatment facilities,581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,0,0,0,0,0,0
+0100000US,,United States,221320,Sewage treatment facilities,999,Firms not operated for the entire year,2012,31,32,D,D,D,b
+0100000US,,United States,22133,Steam and air-conditioning supply,001,All firms,2012,33,95,1428426,161608,46526,2086
+0100000US,,United States,22133,Steam and air-conditioning supply,004,Firms operated for the entire year,2012,31,93,D,D,D,g
+0100000US,,United States,22133,Steam and air-conditioning supply,514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,0,0,0,0,0,0
+0100000US,,United States,22133,Steam and air-conditioning supply,523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,0,0,0,0,0,0
+0100000US,,United States,22133,Steam and air-conditioning supply,525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,0,0,0,0,0,0
+0100000US,,United States,22133,Steam and air-conditioning supply,531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,1,1,D,D,D,a
+0100000US,,United States,22133,Steam and air-conditioning supply,533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,3,3,4061,610,166,14
+0100000US,,United States,22133,Steam and air-conditioning supply,541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,7,7,27684,5032,1289,104
+0100000US,,United States,22133,Steam and air-conditioning supply,542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,2,3,D,D,D,b
+0100000US,,United States,22133,Steam and air-conditioning supply,551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,6,11,103927,16037,4370,238
+0100000US,,United States,22133,Steam and air-conditioning supply,553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,5,7,D,D,D,e
+0100000US,,United States,22133,Steam and air-conditioning supply,561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,3,7,216521,24301,6461,247
+0100000US,,United States,22133,Steam and air-conditioning supply,563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,2,19,D,D,D,e
+0100000US,,United States,22133,Steam and air-conditioning supply,572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,2,35,D,D,D,f
+0100000US,,United States,22133,Steam and air-conditioning supply,581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,0,0,0,0,0,0
+0100000US,,United States,22133,Steam and air-conditioning supply,999,Firms not operated for the entire year,2012,2,2,D,D,D,b
+0100000US,,United States,221330,Steam and air-conditioning supply,001,All firms,2012,33,95,1428426,161608,46526,2086
+0100000US,,United States,221330,Steam and air-conditioning supply,004,Firms operated for the entire year,2012,31,93,D,D,D,g
+0100000US,,United States,221330,Steam and air-conditioning supply,514,"Firms operated entire year with sales/receipts/revenue less than $100,000",2012,0,0,0,0,0,0
+0100000US,,United States,221330,Steam and air-conditioning supply,523,"Firms operated entire year with sales/receipts/revenue of $100,000 to $249,999",2012,0,0,0,0,0,0
+0100000US,,United States,221330,Steam and air-conditioning supply,525,"Firms operated entire year with sales/receipts/revenue of $250,000 to $499,999",2012,0,0,0,0,0,0
+0100000US,,United States,221330,Steam and air-conditioning supply,531,"Firms operated entire year with sales/receipts/revenue of $500,000 to $999,999",2012,1,1,D,D,D,a
+0100000US,,United States,221330,Steam and air-conditioning supply,533,"Firms operated entire year with sales/receipts/revenue of $1,000,000 to $2,499,999",2012,3,3,4061,610,166,14
+0100000US,,United States,221330,Steam and air-conditioning supply,541,"Firms operated entire year with sales/receipts/revenue of $2,500,000 to $4,999,999",2012,7,7,27684,5032,1289,104
+0100000US,,United States,221330,Steam and air-conditioning supply,542,"Firms operated entire year with sales/receipts/revenue of $5,000,000 to $9,999,999",2012,2,3,D,D,D,b
+0100000US,,United States,221330,Steam and air-conditioning supply,551,"Firms operated entire year with sales/receipts/revenue of $10,000,000 to $24,999,999",2012,6,11,103927,16037,4370,238
+0100000US,,United States,221330,Steam and air-conditioning supply,553,"Firms operated entire year with sales/receipts/revenue of $25,000,000 to $49,999,999",2012,5,7,D,D,D,e
+0100000US,,United States,221330,Steam and air-conditioning supply,561,"Firms operated entire year with sales/receipts/revenue of $50,000,000 to $99,999,999",2012,3,7,216521,24301,6461,247
+0100000US,,United States,221330,Steam and air-conditioning supply,563,"Firms operated entire year with sales/receipts/revenue of $100,000,000 to $249,999,999",2012,2,19,D,D,D,e
+0100000US,,United States,221330,Steam and air-conditioning supply,572,"Firms operated entire year with sales/receipts/revenue of $250,000,000 to $499,999,999",2012,2,35,D,D,D,f
+0100000US,,United States,221330,Steam and air-conditioning supply,581,"Firms operated entire year with sales/receipts/revenue of $500,000,000 or more",2012,0,0,0,0,0,0
+0100000US,,United States,221330,Steam and air-conditioning supply,999,Firms not operated for the entire year,2012,2,2,D,D,D,b

@@ -1,0 +1,84 @@
+EC0222SSSZ4
+Utilities: Subject Series - Estab and Firm Size: Revenue Size of Firms for the United States: 2002
+
+[NOTE. Data based on the 2002 Economic Census. For information on
+confidentiality protection, sampling error, nonsampling error, and
+definitions, see 
+Survey
+Methodology. Data in this table represent those available when
+this report was created; data may not be available for all NAICS
+industries or geographies. Data in this table may be subject to
+employment- and/or sales-size minimums that vary by industry.]
+
+
+
+D	Withheld to avoid disclosing data for individual companies; data are included in higher level totals
+
+c	100 to 249 employees
+
+f	500 to 999 employees
+
+g	1,000 to 2,499 employees
+
+b	20 to 99 employees
+
+a	0 to 19 employees
+
+k	25,000 to 49,999 employees
+
+h	2,500 to 4,999 employees
+
+m	100,000 employees or more
+
+e	250 to 499 employees
+
+i	5,000 to 9,999 employees
+
+UNIVERSE DESCRIPTION
+The universe of this file is all establishments of firms with
+payroll. This universe includes all establishments classified in
+Utilities (sector 22) in 2002. These data supersede data released
+in the Industry Series reports from the 2002 Economic Census.
+DATA ITEMS
+This file contains data on:
+
+  Firms
+  Establishments
+  Revenue
+  Annual payroll
+  First-quarter payroll
+  Paid employees
+
+GEOGRAPHIC COVERAGE
+The data are shown at the U.S. level.
+INDUSTRY DETAIL
+The data are shown at selected 2- through 6-digit NAICS code
+levels.
+OTHER VARIABLES IDENTIFYING RECORDS
+Each record includes RCPSZFF which is the three-digit code
+representing the revenue size categories of firms.
+RELEASE SCHEDULE
+The data in this file correspond to the Subject Series,
+Establishment and Firm Size (Including Legal Form of Organization)
+report (EC02-22SS-SZ) that will be released in December 2005.
+RELATED DATA FILES
+EC0222SSSZ1 through EC0222SSSZ3, and EC0222SSSZ5 through
+EC0222SSSZ7 present data by employment and revenue size for
+establishments and firms, number of single unit and multiunit
+firms, concentration ratio, and legal form of organization for the
+United States.
+CORRESPONDENCE TO PDF REPORTS
+These data are exactly the same as are shown in the PDF-format
+Subject Series, Establishment and Firm Size (Including Legal Form
+of Organization) report (EC02-22SS-SZ). This report will also be
+released on the Census Bureau's Internet site at
+www.census.gov.
+DATA LIMITATIONS
+There are no special limitations to these data.
+FILE SEQUENCE
+Data are presented by firm revenue size in ascending NAICS code
+sequence.
+
+
+
+

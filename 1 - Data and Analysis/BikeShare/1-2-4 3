@@ -1,0 +1,7 @@
+SELECT 
+	*
+FROM 
+	trips
+ORDER BY
+	duration
+LIMIT 1

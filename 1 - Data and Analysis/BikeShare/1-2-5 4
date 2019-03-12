@@ -1,0 +1,26 @@
+WITH
+	tripy
+AS (
+	SELECT
+		SPLIT_PART(start_date,' ',1) AS date,
+		MAX(duration) as max_dur
+	FROM
+		trips
+	GROUP BY
+		date
+)
+
+SELECT
+	w.date,
+	t.max_dur
+FROM
+	weather AS w
+Join
+	tripy AS t
+ON
+	w.date = t.date
+WHERE
+	w.events LIKE 'Rain'
+GROUP BY
+	w.date,
+	t.max_dur

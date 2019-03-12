@@ -1,0 +1,11 @@
+SELECT
+	*
+FROM
+	sfo_listings AS l
+JOIN
+	sfo_prices AS p
+ON
+	l.id = p.id
+ORDER BY
+	numprice DESC
+LIMIT 1

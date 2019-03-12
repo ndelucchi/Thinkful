@@ -1,0 +1,10 @@
+SELECT
+	neighbourhood,
+	SUM(number_of_reviews) AS num_reviews
+FROM
+	sfo_listings AS l
+GROUP BY
+	neighbourhood
+ORDER BY
+	num_reviews DESC
+LIMIT 8

@@ -1,0 +1,14 @@
+GEO.id,Geographic identifier code
+GEO.id2,Id2
+GEO.display-label,Geographic area name
+NAICS.id,2012 NAICS code
+NAICS.display-label,Meaning of 2012 NAICS code
+RCPSZFF.id,"Sales, receipts, or revenue size of firms operated the entire year code"
+RCPSZFF.display-label,"Meaning of Sales, receipts, or revenue size of firms operated the entire year code"
+YEAR.id,Year
+FIRM,Number of firms
+ESTAB,Number of establishments
+RCPTOT,"Revenue ($1,000)"
+PAYANN,"Annual payroll ($1,000)"
+PAYQTR1,"First-quarter payroll ($1,000)"
+EMP,Number of paid employees for pay period including March 12

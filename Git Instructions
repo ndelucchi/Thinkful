@@ -1,0 +1,8 @@
+Clone repository:
+change or make directory to desired directory
+git clone <repository URL>
+
+Save file to github
+clone/save file to git repository directory
+git commit <file name(s)> -m "message"
+git push origin master

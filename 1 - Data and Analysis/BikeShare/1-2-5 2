@@ -1,0 +1,14 @@
+SELECT 
+	stations.station_id,
+	AVG(bikes_available/dockcount) AS availability
+FROM 
+	stations
+JOIN 
+	status
+ON
+	stations.station_id = status.station_id
+GROUP BY
+	stations.station_id
+ORDER BY
+	availability DESC
+LIMIT 1
